@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFabioArias&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrFabioArias&layout=compact&theme=tokyonight&locale=es" alt="Top Languages" />
 </div>
 
 ---
@@ -55,7 +55,7 @@
 
 ## 📊 Performance Metrics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrFabioArias&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrFabioArias&show_icons=true&theme=tokyonight&locale=es" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrFabioArias&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
