@@ -1,105 +1,91 @@
-# <img src="https://raw.githubusercontent.com/mshick/mshick/master/images/hi.gif" width="30"> 👋 I'm Fabio Andrés Arias Osorio (Mr Fbo)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=24+Years+of+Tech+Experience;IT+Leader+%7C+Developer+%7C+Entrepreneur;Building+the+Future+with+AI+%26+Automation" alt="Typing SVG" />
-</div>
-
----
-
-### 🌐 [ES] / [EN]
-> **ES:** Líder de TI con 24 años de trayectoria, transformando negocios a través de la tecnología.
-> **EN:** IT Leader with 24 years of experience, transforming businesses through technology.
-
----
-
-## ⚡ Quick Status / Estado Rápido
-- 🔭 **Working on:** [Academy](https://github.com/MrFabioArias/academy) & [TodoList](https://github.com/MrFabioArias/todolist)
-- 🧠 **Mastering:** Python, AI Integration, & Advanced Automation.
-- 💬 **Ask me about:** IT Infrastructure, Full-stack Dev, & Tech Strategy.
-- 📫 **How to reach me:** [fabioarias@fabionet.com](mailto:fabioarias@fabionet.com)
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrFabioArias&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🛠️ CyberStack & Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,php,html,css,nodejs,react,mysql,docker,aws,git,linux&theme=dark" alt="My Skills" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrFabioArias&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Featured Projects / Proyectos Destacados
 <div align="center">
 
-| Project | Description (EN) | Descripción (ES) |
-| :--- | :--- | :--- |
-| [**Academy**](https://github.com/MrFabioArias/academy) | Educational platform for internal training. | Plataforma educativa para capacitación interna. |
-| [**TodoList**](https://github.com/MrFabioArias/todolist) | Advanced productivity & task management system. | Sistema avanzado de productividad y gestión de tareas. |
-| [**FabioNet**](https://www.fabionet.com) | IT Infrastructure & Professional Services. | Infraestructura de TI y Servicios Profesionales. |
+# Fabio Andrés Arias Osorio · Mr Fbo
+
+### IT Leader · Full-stack Developer · AI & Automation Builder
+
+**24 years turning technology into reliable business systems.**  
+**24 años convirtiendo tecnología en sistemas confiables para empresas.**
+
+[![FabioNet](https://img.shields.io/badge/FabioNet-Technology%20%26%20Services-00A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fabionet.com)
+[![AsesoríaProTech](https://img.shields.io/badge/AsesoríaProTech-AI%20%26%20Business%20Platforms-6D5DFC?style=for-the-badge&logo=probot&logoColor=white)](https://asesoriaprotech.com)
+[![Email](https://img.shields.io/badge/Email-fabioarias%40fabionet.com-22272E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabioarias@fabionet.com)
 
 </div>
 
----
+## About me / Sobre mí
 
-## 📊 Performance Metrics
+> **ES:** Líder de TI, desarrollador y emprendedor. Diseño y opero soluciones que conectan software, infraestructura, automatización e inteligencia artificial para resolver procesos reales de negocio.
+>
+> **EN:** IT leader, developer, and entrepreneur. I design and operate solutions that connect software, infrastructure, automation, and artificial intelligence to solve real business workflows.
+
+- Building at the intersection of **product, architecture, DevOps, security, and operations**.
+- Focused on maintainable systems: modular design, tested contracts, observable services, and safe delivery.
+- Most client and production repositories are **private by design**; this profile shares capabilities without exposing customer data.
+
+## What I build / Lo que construyo
+
+| Area | Work |
+| --- | --- |
+| Business platforms | CRM, operations, inventory, maintenance, metrology, reporting, and internal portals |
+| Learning products | Corporate training, courses, assessments, certificates, and progress analytics |
+| AI & automation | Assistants, document intelligence, workflow automation, email/security analysis, and integrations |
+| Web products | Next.js applications, PWAs, dashboards, APIs, public sites, and role-based administration |
+| Infrastructure | Dockerized services, self-hosting, networks, monitoring, backups, and secure remote operations |
+
+## Current stack / Stack actual
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrFabioArias&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrFabioArias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,nextjs,react,nodejs,django,fastapi,postgres,mysql,redis,docker,githubactions,linux,aws,git&perline=9&theme=dark" alt="TypeScript, JavaScript, Python, PHP, Next.js, React, Node.js, Django, FastAPI, PostgreSQL, MySQL, Redis, Docker, GitHub Actions, Linux, AWS and Git" />
 </div>
 
----
+| Layer | Tools and practices |
+| --- | --- |
+| Frontend | TypeScript, React, Next.js, Vite, Tailwind CSS, accessible responsive UI |
+| Backend | Python, Django, FastAPI, Node.js/Express, PHP, REST APIs, background jobs |
+| Data | PostgreSQL, Prisma, SQLAlchemy, MySQL, Redis, versioned migrations |
+| Platform | Docker, GitHub Actions, GHCR, Coolify, Linux, AWS, health checks and rollback |
+| Quality | Pytest, Vitest, integration/E2E testing, Ruff, ESLint, type checking, Dependabot |
 
-## 🗺️ Career Timeline
+## Selected live work / Proyectos en línea
+
+- [**ProTech Academy**](https://academy.asesoriaprotech.com) — corporate learning for cybersecurity, productivity, and AI.
+- [**AsesoríaProTech**](https://asesoriaprotech.com) — AI, security, training, and business platforms.
+- [**FabioNet**](https://www.fabionet.com) — technology infrastructure and professional services.
+- [**Paantec**](https://paantec.com) — public web experience for vertical-transport solutions.
+
+Private product work also covers operations, CRM, maintenance, document management, analytics, inventory, and AI assistants.
+
+## 2026 engineering focus
+
+- Production-grade AI integrations with clear security and failure boundaries.
+- Modular full-stack architecture for systems that can evolve without rewrites.
+- Consistent CI/CD, dependency security, branch governance, and container delivery.
+- Incremental modernization of Python, TypeScript, JavaScript, and PHP applications.
+- Better observability, migration safety, backup verification, and rollback.
+
+## Career timeline / Trayectoria
+
 ```mermaid
 timeline
-    title 24 Years of Innovation
-    2002 : Helpdesk & Technical Support
-    2012 : Server Administration & Infrastructure
-    2018 : IT Leadership & Management
-    2024 : AI, Automation & Advanced Development (24th Anniversary)
+    title From infrastructure to AI-powered products
+    2002 : Helpdesk and technical support
+    2012 : Servers, networks and infrastructure
+    2018 : IT leadership and business transformation
+    2024 : AI integration and advanced automation
+    2026 : Product architecture, secure platforms and DevOps
 ```
 
----
+## Let’s connect / Contacto
 
-## 🎨 About Me / Sobre Mí
-```yaml
-identity:
-  name: Fabio Andrés Arias Osorio
-  alias: Mr Fbo
-  faith: Christian ✝️
-  passions: [Family 👨‍👩‍👧‍👦, Travel 🌍, Tech Learning 📚]
-
-skills_evolution:
-  python: Advanced
-  ai_automation: Expert
-  languages: [English 🇺🇸, French 🇫🇷, German 🇩🇪]
-```
-
----
+- Email: [fabioarias@fabionet.com](mailto:fabioarias@fabionet.com)
+- Technology services: [fabionet.com](https://www.fabionet.com)
+- Business platforms and consulting: [asesoriaprotech.com](https://asesoriaprotech.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrFabioArias&color=00D2FF&style=for-the-badge&label=CYBER+VISITS" alt="Profile views" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+“Technology is best when it brings people together.”
 
----
+**© 2026 Mr Fbo**
 
-<div align="center">
-  <p><em>"Technology is best when it brings people together"</em> 🚀</p>
-  <p><strong>© 2026 Mr Fbo</strong></p>
 </div>
