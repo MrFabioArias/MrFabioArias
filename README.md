@@ -4,9 +4,13 @@
 
 ### IT Leader · Full-stack Developer · AI & Automation Builder
 
+> **Empecé instalando el cableado. Hoy escribo el software que lo administra.**  
+> *I started pulling cable. Today I write the software that runs it.*
+
 **24 years turning technology into reliable business systems.**  
 **24 años convirtiendo tecnología en sistemas confiables para empresas.**
 
+[![Portafolio — el expediente](https://img.shields.io/badge/PORTFOLIO-fabio.asesoriaprotech.com-E8590C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fabio.asesoriaprotech.com)
 [![FabioNet](https://img.shields.io/badge/FabioNet-Technology%20%26%20Services-00A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fabionet.com)
 [![AsesoríaProTech](https://img.shields.io/badge/AsesoríaProTech-AI%20%26%20Business%20Platforms-6D5DFC?style=for-the-badge&logo=probot&logoColor=white)](https://asesoriaprotech.com)
 [![Email](https://img.shields.io/badge/Email-fabioarias%40fabionet.com-22272E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabioarias@fabionet.com)
@@ -49,6 +53,7 @@
 
 ## Selected live work / Proyectos en línea
 
+- [**El expediente — portafolio completo**](https://fabio.asesoriaprotech.com) — the dossier: 19 live domains, the infrastructure behind them, the rules I operate by, and the HTTP check that verifies it. · *los 19 dominios en producción, la infraestructura que los sostiene, las reglas con las que opero y la comprobación que los verifica.*
 - [**ProTech Academy**](https://academy.asesoriaprotech.com) — corporate learning for cybersecurity, productivity, and AI.
 - [**AsesoríaProTech**](https://asesoriaprotech.com) — AI, security, training, and business platforms.
 - [**FabioNet**](https://www.fabionet.com) — technology infrastructure and professional services.
@@ -78,6 +83,7 @@ timeline
 
 ## Let’s connect / Contacto
 
+- Portfolio / Portafolio: [fabio.asesoriaprotech.com](https://fabio.asesoriaprotech.com)
 - Email: [fabioarias@fabionet.com](mailto:fabioarias@fabionet.com)
 - Technology services: [fabionet.com](https://www.fabionet.com)
 - Business platforms and consulting: [asesoriaprotech.com](https://asesoriaprotech.com)
