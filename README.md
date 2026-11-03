@@ -7,8 +7,8 @@
 > **Empecé instalando el cableado. Hoy escribo el software que lo administra.**  
 > *I started pulling cable. Today I write the software that runs it.*
 
-**24 years turning technology into reliable business systems.**  
-**24 años convirtiendo tecnología en sistemas confiables para empresas.**
+**25 years turning technology into reliable business systems.**  
+**25 años convirtiendo tecnología en sistemas confiables para empresas.**
 
 [![Portafolio — el expediente](https://img.shields.io/badge/PORTFOLIO-fabio.asesoriaprotech.com-E8590C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fabio.asesoriaprotech.com)
 [![FabioNet](https://img.shields.io/badge/FabioNet-Technology%20%26%20Services-00A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fabionet.com)
@@ -48,12 +48,12 @@
 | Frontend | TypeScript, React, Next.js, Vite, Tailwind CSS, accessible responsive UI |
 | Backend | Python, Django, FastAPI, Node.js/Express, PHP, REST APIs, background jobs |
 | Data | PostgreSQL, Prisma, SQLAlchemy, MySQL, Redis, versioned migrations |
-| Platform | Docker, GitHub Actions, GHCR, Coolify, Linux, AWS, health checks and rollback |
+| Platform | Docker, GitHub Actions, GHCR, Linux, AWS, self-hosted platforms, health checks and rollback |
 | Quality | Pytest, Vitest, integration/E2E testing, Ruff, ESLint, type checking, Dependabot |
 
 ## Selected live work / Proyectos en línea
 
-- [**El expediente — portafolio completo**](https://fabio.asesoriaprotech.com) — the dossier: 19 live domains, the infrastructure behind them, the rules I operate by, and the HTTP check that verifies it. · *los 19 dominios en producción, la infraestructura que los sostiene, las reglas con las que opero y la comprobación que los verifica.*
+- [**El expediente — portafolio completo**](https://fabio.asesoriaprotech.com) — the dossier: 28 live domains, the systems behind them, the rules I operate by, and the HTTP check that verifies it. · *los 28 dominios en producción, los sistemas que los sostienen, las reglas con las que opero y la comprobación que los verifica.*
 - [**ProTech Academy**](https://academy.asesoriaprotech.com) — corporate learning for cybersecurity, productivity, and AI.
 - [**AsesoríaProTech**](https://asesoriaprotech.com) — AI, security, training, and business platforms.
 - [**FabioNet**](https://www.fabionet.com) — technology infrastructure and professional services.
@@ -61,7 +61,7 @@
 
 Private product work also covers operations, CRM, maintenance, document management, analytics, inventory, and AI assistants.
 
-## 2026 engineering focus
+## 2026 technical focus
 
 - Production-grade AI integrations with clear security and failure boundaries.
 - Modular full-stack architecture for systems that can evolve without rewrites.
@@ -74,7 +74,7 @@ Private product work also covers operations, CRM, maintenance, document manageme
 ```mermaid
 timeline
     title From infrastructure to AI-powered products
-    2002 : Helpdesk and technical support
+    2001 : Helpdesk and technical support
     2012 : Servers, networks and infrastructure
     2018 : IT leadership and business transformation
     2024 : AI integration and advanced automation
